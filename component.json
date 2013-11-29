@@ -1,8 +1,8 @@
 {
-  "name": "ember-data",
-  "repo": "components/ember-data",
+  "name": "ember-data-modern",
+  "repo": "components/ember-data-modern",
   "description": "A data persistence library for Ember.js.",
-  "version": "1.0.0-beta.3",
+  "version": "1.0.0-beta.4+canary.7af6fcb0",
   "main": "ember-data.js",
   "scripts": [
     "ember-data.js",
@@ -10,7 +10,7 @@
     "ember-data.prod.js"
   ],
   "dependencies": {
-    "components/ember": "~1.0"
+    "components/ember-modern": "~1.0"
   },
   "license": "MIT"
 }

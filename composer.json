@@ -1,10 +1,10 @@
 {
-    "name": "components/ember-data",
+    "name": "components/ember-data-modern",
     "description": "A data persistence library for Ember.js.",
     "type": "component",
     "license": "MIT",
     "require": {
-        "components/ember": "1.*"
+        "components/ember-data-modern": "1.*"
     },
     "extra": {
         "component": {
